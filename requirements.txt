@@ -1,0 +1,11 @@
+# Asistent Inteligent RAG (Oracle Vector Search & Qwen Local)
+# Acest proiect necesită și este testat pentru un interpretor Python 3.11.
+
+streamlit
+python-dotenv
+pdfplumber
+numpy
+oracledb
+sentence-transformers
+transformers>=4.37.0
+torch
