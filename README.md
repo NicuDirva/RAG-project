@@ -92,7 +92,7 @@ FETCH FIRST :k ROWS ONLY
 
 ## 📈 Execuție și Rezultate
 **Interpretarea Rezultatelor**
-Sistemul a evoluat de la o arhitectură bazată pe FLAN-T5 (care prezenta dificultăți în urmărirea instrucțiunilor și în limba română) la una bazată pe Qwen 2.5.
+Sistemul are la bază o arhitectură bazată pe Qwen 2.5.
 
 - Acuratețe: Prin folosirea modelului Causal, răspunsurile sunt acum formulate în propoziții cursive, respectând contextul oferit.
 
